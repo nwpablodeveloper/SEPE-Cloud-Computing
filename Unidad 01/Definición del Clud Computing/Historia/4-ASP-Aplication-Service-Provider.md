@@ -23,5 +23,6 @@ empresa puede ser un proceso complejo.
 > - Programas empresas
 >   * Contabilidad: **CatwinNet**
 >   * ERP: **OpenBravo**
+>
 > - Antivirus
 >   * Panda
