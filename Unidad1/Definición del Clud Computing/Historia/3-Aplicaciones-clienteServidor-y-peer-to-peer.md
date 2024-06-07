@@ -41,6 +41,6 @@ El Server procesa todo y se lo responde al Cliente
 posibles problemas del punto de fallo del servidor. Si un nodo de esta red
 se cae, el resto puede servir la información de todos modos. 
 > Ejemlo: 
-    - Ares Galaxy
-    - eMule
-    - Spotify
+- Ares Galaxy
+- eMule
+- Spotify
