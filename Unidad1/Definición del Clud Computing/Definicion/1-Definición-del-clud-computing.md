@@ -7,7 +7,7 @@ forma dinámica para ajustarse a una carga variable para optimizar el uso de sus
 * Se paga solo por el recurso a utilizar
 * Establece estándares de calidad a través de SLA personalizados
 
-## Definición de commodity
+## [Definición de commodity]()
 
 > **Commodity**, en sentido general es el suministro a pagar por todo lo que
 se utilice o consuma. 

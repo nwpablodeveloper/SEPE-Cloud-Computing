@@ -1,11 +1,11 @@
-## Historia
+## [Historia]()
 
 Es una técnologia **disruptiva**
 > Es un nuevo tipo de técnologia o procedimiento que desplaza por completo a
 las existentes, ya sea porque es técnicamente más eficiento o porque su volor
 es muy inferior
 
-### Principales hitos
+### [Principales hitos]()
 
 * Decada del 60 los primeros megaordenadores comenzaron a intruducirse en las 
 empresas.
