@@ -21,8 +21,7 @@ empresa puede ser un proceso complejo.
 
 > Ejemplo de aplicaciones ASP
 > - Programas empresas
-> * Contabilidad: **CatwinNet**
-> * ERP: **OpenBravo**
-
+>   * Contabilidad: **CatwinNet**
+>   * ERP: **OpenBravo**
 > - Antivirus
-> * Panda
+>   * Panda
