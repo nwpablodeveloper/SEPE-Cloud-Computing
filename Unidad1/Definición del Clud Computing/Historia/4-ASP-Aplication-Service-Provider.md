@@ -20,9 +20,9 @@ seguridad necesarias, backups, encriptacion, etc.
 empresa puede ser un proceso complejo. 
 
 > Ejemplo de aplicaciones ASP
-- Programas empresas
-* Contabilidad: **CatwinNet**
-* ERP: **OpenBravo**
+> - Programas empresas
+> * Contabilidad: **CatwinNet**
+> * ERP: **OpenBravo**
 
-- Antivirus
-* Panda
+> - Antivirus
+> * Panda
