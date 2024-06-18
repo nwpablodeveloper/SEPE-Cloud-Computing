@@ -1,4 +1,4 @@
-## [El Cloud Computing y el departamento IT]()
+## [El Cloud Computing y el departamento IT](1_El_Cloud_Computing_y_el_departamento.pdf)
 
 Relación entre empresas:
 
@@ -15,9 +15,9 @@ Acceso a nuevas tecnologías: Permite a las empresas acceder a las últimas tecn
 Escalabilidad: Permite a las empresas crecer o reducir sus recursos tecnológicos de forma rápida y sencilla.
 Ejemplo de tareas externalizadas:
 
-Monitorización de servidores.
-Actualización de sistemas.
-Copias de seguridad de datos.
+- Monitorización de servidores.
+- Actualización de sistemas.
+- Copias de seguridad de datos.
 En resumen:
 
 El Cloud Computing transforma el departamento de IT, permitiéndoles centrarse en tareas estratégicas y dejando las tareas repetitivas a proveedores externos. Esto mejora la eficiencia, reduce costes y permite a las empresas acceder a las últimas tecnologías.
