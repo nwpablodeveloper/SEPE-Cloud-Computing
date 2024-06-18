@@ -61,4 +61,29 @@ Se encuentra en el punto medio de la cadena valor.
 Es el encargado de proporcionar una interfaz de elevado nivel de abastracción
 ( APaaS)
 
+#### [Infraestructura]()
+**IaaS** (Infraestructura as a Service). Si bien se ofrece tambien para el desarrollo de aplicaciones
+sus clientes principales son los **ASP** (Application Service Providers) como así tambien los usuarios
+finales, domesticos o profesionales. 
+Se encuentra en el comienzo y en el final de la cadena valor.
 
+#### [Almacenamiento]()
+**SaaS** (Stora as a Service) Encargado de almacenar la información en red y con un pago por su uso
+
+#### [Máquinas Virtuales]()
+Un servicio como **IaaS** (Infraestructura as a Service). Ofrece recursos virtuales con capacidad de ejecutar instancias de caractarísticas de hardware y software específicas.
+Es un caso particular del Cloud Computing donde se ofrece supercomputación en modo de 
+servicio mediante una acumulación de potencia en una red GRID.
+
+
+#### [Red]()
+**NaaS** (Network as a Service), si bien es un concepto poco utilizado representa
+un servicio de red especializado ofrecidos bajo demanda o con especial integración
+con otros servicios Cloud. Ej. redes privadas virtuales entre maquinas virtuales. 
+Tambíen denominada **CaaS**(Communication as a Service)
+
+![](niveles-abstraccion.jpg)
+
+### [2 Elementos que se destacaron en la oferta del Cloud]()
+1. La virtualización de servidores, almacenamiento y redes.
+2. El diseño de los Centro de Datos para Cloud Computing
