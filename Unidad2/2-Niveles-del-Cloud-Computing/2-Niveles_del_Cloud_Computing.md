@@ -49,5 +49,16 @@ En el mercado podemos encontrar estos servicios de forma separada.
 - La empresa proveedora esta a cargo del correcto funcionamiento
 - No es necesario comprar licencias, se alquila por el uso del software
 
+#### [Aplicaciones software]()
+**SaaS** representa el servicio Cloud de mayor nivel de. Los usuarios finales,
+domesticos o profesionales son los clientes de este servicio. Este punto
+estan en la ultima parte de la cadena de valor
+
+#### [Plataforma de desarrollo y pruebas]()
+**PaaS** (Plataform as a Service) se ofrece para el desarrollo de Aplicaciones.
+proveedores de aplicaciones en modo servicio o Apps Service Provider (ASP).
+Se encuentra en el punto medio de la cadena valor.
+Es el encargado de proporcionar una interfaz de elevado nivel de abastracción
+( APaaS)
 
 
