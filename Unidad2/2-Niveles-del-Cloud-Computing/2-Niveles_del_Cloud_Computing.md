@@ -6,8 +6,8 @@ El **Cloud Computing tiene 3 nivelos o capas**
 Permite usar los recursos del Hardware. La infraestructura es gestionada por el 
 proveedor como un servicio bajo demanda ( Servers, red, equipos, Software). 
 Evita la compra de recursos por por parte de los suscriptores ya que el proveedor ofrece
-recursos como objetos virtuales. El suscriptor tienen la decisión de sistema operativo y del entorno
-que instal. La gestión de la seguridad principalemnte esta a cargo del suscriptor
+recursos como objetos virtuales. El suscriptor tienegn la decisión de sistema operativo y del entorno
+que instala. La gestión de la seguridad principalemnte esta a cargo del suscriptor
 
 - PaaS (Plataforma como servicios)
 Permite la creación de aplicaciones en un servicio de bajo demanda haciendo uso de un hardware y software
