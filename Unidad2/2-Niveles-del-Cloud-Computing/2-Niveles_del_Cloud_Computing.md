@@ -2,27 +2,24 @@
 
 El **Cloud Computing tiene 3 nivelos o capas**
 
-1. Infraestructura como servicio (IaasS) 
-**Infrastructure as a Service** permite usar los recursos del proveedor.
-Es la estructura básica de computo y es gestionada como un servicio bajo demanda
-para poder crear entornos para desarrollar, ejecutar o probar Apps. 
-El objetivo es evitar la compra de recuros por parte de los suscriptores, por lo
-tanto, la gestióon de la seguridad es responsabilidad del suscriptor
+- IaaS ( Infraestructura as a Service ) 
+Permite usar los recursos del Hardware. La infraestructura es gestionada por el 
+proveedor como un servicio bajo demanda ( Servers, red, equipos, Software). 
+Evita la compra de recursos por por parte de los suscriptores ya que el proveedor ofrece
+recursos como objetos virtuales. El suscriptor tienen la decisión de sistema operativo y del entorno
+que instal. La gestión de la seguridad principalemnte esta a cargo del suscriptor
 
-2. Plataforma como servicios (PaaS)
-Permite a los usuarios crear Apps en un servicio de bajo demanda de Hard y Soft
-necesario para ello. Beneficia en un menor costo para adquirir el servicio. 
-Los suscriptores.
-El suscriptor tiene el control parcial sobre las Apps y la configuración del
-entorno. La seguridad en este caso es compartida entre el servidor y el suscriptor
+- PaaS (Plataforma como servicios)
+Permite la creación de aplicaciones en un servicio de bajo demanda haciendo uso de un hardware y software
+necesrio para ello. Se logra reducir los costes del servicio, el mantenimiento, almacenamiento y el 
+control del hardware y software. El suscriptor controla de forma parcial sobre las Apps y la configuración
+. La seguridad se comparte entre el proveedor y suscriptor
 
-3. Software como servicio (SaaS)
-Software as a Service
-Despliega el Soft donde las Apss y los recursos se diseñaron para ser ofrecidos
-como servicio de bajo demanda. 
-Reduce los costos del Soft y del Hard y de mantenimiento. 
-La seguridad es controlada por el proveedor y el suscriptor solo tiene accesos
-a la edición de preferencia de forma limitada. 
+- SaaS (Software como servicio)
+Los Sofware, Aplicaciones y recursos se diseñaron para ser ofrecidos como servicio de funcionamientod
+de bajo demanda. Se reducen los costos de Software y Hardware, manteniento y operacionales.
+La seguridad depende del proveedor y el suscriptor solo tiene acceso a la edición de preferencias
+y a algunos previlegios administrativos de forma limitada
 
 Las capas se relacionan una con otra. 
 Para llegar a la **capa de Aplicación** la misma esta por arriba de la **Capa de plataforma** y la 
