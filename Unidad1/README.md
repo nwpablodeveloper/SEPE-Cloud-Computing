@@ -1,20 +1,20 @@
 ## [Definición](Definicion/)
-1. Definición del Cloud Computing
-    * [Definicion del Cloud Computing](Definicion/1-Definición-del-clud-computing.md)
-    * [Definición de commodity](Definicion/1-Definición-del-clud-computing.md)
-2. Caracteristicas
-    * [aracterísticas](Definicion/2-Caracteristicas.md)
-    * [Pago por uso](Definicion/2-Caracteristicas.md)
-    * [Virtualización](Definicion/2-Caracteristicas.md)
-    * [Escalabilidad](Definicion/2-Caracteristicas.md)
-    * [Ubicuidad](Definicion/2-Caracteristicas.md)
+1. [Definición del Cloud Computing](Definicion/1-Definición-del-clud-computing.md)
+    * Definicion del Cloud Computing
+    * Definición de commodity
+2. [Caracteristicas](Definicion/2-Caracteristicas.md)
+    * aracterísticas
+    * Pago por uso
+    * Virtualización
+    * Escalabilidad
+    * Ubicuidad
 ## [Historia](Historia/)
-1. Historia
-    * [Historia](Historia/1-Historia.md)
-    * [Principales hitos](Historia/1-Historia.md)
-2. La Llegada de internet
-3. Aplicaciones clienteServidor y Peer to Peer
-4. ASP Aplication Service Provider
-5. Hoousing y hosting
-6. Grid Computing
-7. SAO Service Oriented Architecture
+1. [Historia](Historia/1-Historia.md)
+    * Historia
+    * Principales hitos
+2. [La Llegada de internet](Historia/2-La-llegada-de-internet.md)
+3. [Aplicaciones clienteServidor y Peer to Peer](Historia/3-Aplicaciones-clienteServidor-y-peer-to-peer.md)
+4. [ASP Aplication Service Provider](Historia/4-ASP-Aplication-Service-Provider.md)
+5. [Housing y hosting](Historia/5-Housing-y-hosting.md)
+6. [Grid Computing](Historia/6-Grid-computing.md)
+7. [SAO Service Oriented Architecture](Historia/7-SAO-Service-Oriented-Architecture.md)
