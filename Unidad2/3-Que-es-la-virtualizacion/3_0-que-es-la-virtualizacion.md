@@ -1,6 +1,6 @@
 ## [Que es la virtualización](3_que_es_la_virtualizacion.png)
 
-Virtualización:
+### [Virtualización:]()
 
 Permite usar recursos computacionales de forma ágil y flexible, sin conocimiento técnico del hardware.
 Crea nuevos entornos dinámicamente según la demanda.
@@ -13,7 +13,7 @@ Implementación software de una computadora que ejecuta programas como una máqu
 Incluye kernel, sistema operativo, bibliotecas y aplicaciones.
 
 
-Hipervisor:
+### [Hipervisor:]()
 
 Proporciona una abstracción del hardware físico subyacente.
 Permite ejecutar varias VMs simultáneamente.
